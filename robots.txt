@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonahzeim.skulpt.org/sitemap.xml
